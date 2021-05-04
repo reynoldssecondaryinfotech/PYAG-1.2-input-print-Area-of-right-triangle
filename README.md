@@ -1,4 +1,4 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/a/yaxDRnZQ)
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/a/re0QBA1X)
 # Exercise 1.2 - Area of Right Triangle
 
 Write a program that reads the length of the base and the height of a right-angled triangle and prints the area. Every number is given on a separate line.
